@@ -1,17 +1,8 @@
-# 02 Advanced CSS: Portfolio
+# My Professional Portfoilo 
 
-## Your Task
+## Description
 
-Welcome to this week's Challenge! This is an even-numbered week, so you won't be given any starter code. Instead, you'll create a web application from scratch! This week, you'll build a portfolio page, which you can add to as the course progresses. 
-
-A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it. Students who have portfolios with deployed web applications (meaning they are live on the web) are typically very successful in their career search after the boot camp. This last point can’t be stressed enough: having several deployed projects is a minimum requirement to receive an initial interview at many companies. 
-
-With these points in mind, in this Challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you will use during your job search. It’s a win-win that you'll likely be grateful for in the future!
-
-**Note:** If you don't have enough web applications to showcase at this point, use placeholder images and names. You can change them to real applications as you create them later in the course.
-
-Let’s take a look at what a user story written from the perspective of a hiring manager might look like. As you might remember from your first Challenge, we follow the AS AN / I WANT / SO THAT format. 
-
+This is the Challenge after completing the Unit 2 (Advanced CSS) of Adelaide University Coding Bootcamp. 
 
 ## User Story
 
@@ -20,7 +11,6 @@ AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
 SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 ```
-
 
 ## Acceptance Criteria
 
@@ -42,65 +32,45 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
+## Solution 
 
-## Mock-Up
+```
+Steps to resolve the tasks:
+1. Create the HTML file and respective CSS files.  Create the layout of the webpage by editing the HTML files and CSS files. 
 
-The following animation shows the web application's appearance and functionality:
+2. Adding images to the webpages. 
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+3. Adding links to the navigation items and my work images
 
+4. Create Pseudo-Classs for the navigation items and my work images. 
 
-## Grading Requirements
+5. Adding responsive design to the webpage. 
+```
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+## How to review the solution
 
-This Challenge is graded based on the following criteria: 
+1. Click the Github Page link https://chengpitchi.github.io/billy-portfolio-page/ to open the page in Chrome browser. On the page, right click "Inspect" to review the code in Chrome browser Dev Mode.  Use the Wave tool to evaluate the accessibilty of the website. 
 
-### Technical Acceptance Criteria: 40%
+2. Click the Github repository link https://github.com/chengpitchi/billy-portfolio-page to examine the files in the repository.
 
-* Satisfies all of the above acceptance criteria.
+## Live URL 
 
-### Deployment: 32%
+https://chengpitchi.github.io/billy-portfolio-page/
 
-* Application deployed at live URL.
+## Screenshots for the Solution 
 
-* Application loads with no errors.
+![This is the first solution screenshot for my Professional Portfolio](./assets/images/Solution_Screenshot1.png)
+<br>
+![This is the second solution screenshot for my Professional Portfolio](./assets/images/Solution_Screenshot2.png)
+<br>
+![This is the third solution screenshot for my Professional Portfolio](./assets/images/Solution_Screenshot3.png)
+<br>
 
-* Application GitHub URL submitted.
+## Installation 
 
-* GitHub repository contains application code.
+No installation required. 
 
-### Application Quality: 15%
+## License 
 
-* Application resembles the mock-up functionality provided in the Challenge instructions.
+No Applicable  
 
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme with description, screenshot, link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
