@@ -15,6 +15,7 @@ body{
 header{
     display: flex; 
     background-color: var(--main-color-2); 
+    background-image: linear-gradient(to left, var(--main-color-2), rgb(102, 92, 92)); 
     height: 90px; 
     flex-wrap: wrap; 
 }
@@ -257,6 +258,7 @@ nav a:hover {
 
     .work-box {
         width: 98%; 
+        margin-top: 3%; 
     }
 
     .detail-column nav {
