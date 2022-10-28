@@ -1,6 +1,7 @@
 /* declare variables */
 :root {
-    --main-color-1: rgb(158, 196, 189);
+    --main-color-1: rgb(158, 196, 189); 
+    /*--main-color-1: rgb(217, 164, 174); */
     --main-color-2: rgb(74, 70, 70);  
     --main-font-color: rgba(77, 76, 82, 0.784);   
 }
